@@ -75,7 +75,6 @@ soupsieve==2.3.1
 SpeechRecognition==3.8.1
 sqlparse==0.4.2
 systemd-python==234
-tzdata==2021.5
 ubuntu-advantage-tools==27.6
 ubuntu-drivers-common==0.0.0
 ufw==0.36.1
